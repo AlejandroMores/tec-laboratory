@@ -2,11 +2,6 @@
 
 Tec-laboratory es un hola mundo con java y spring-boot framework.
 
-
-```bash
-pip install foobar
-```
-
 ## Requerimientos
 
 - Java 11
