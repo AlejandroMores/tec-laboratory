@@ -9,16 +9,17 @@ Tec-laboratory es un hola mundo con java y spring-boot framework.
 
 ## Uso
 
-Para levantar el proyecto es necesario ejecutar el comando 
+Para levantar el proyecto es necesario ejecutar el comando. 
 ```bash
 ./gradlew bootRun
 ```
-o en el caso de que tengas una version de [Gradle](https://gradle.org) instalada debes ejecutar el comando de la siguiente manera 
+ En el caso de que tengas una versión de [Gradle](https://gradle.org) instalada debes ejecutar el comando de la siguiente manera 
 ```bash
 gradle bootRun
 ```
+Una vez que el proyecto haya levantado dirígete a la ruta  [http://localhost:8080/v1/user](http://localhost:8080/v1/user) en cualquier navegador web y estarás visualizando el ejemplo.
 ## Contribuciones
-Este repositorio es un laboratorio de aprendizaje por esa razon todos los pull request son bienvenidos. 
+Este repositorio es un laboratorio de aprendizaje por esa razón todos los pull request son bienvenidos. 
 
 ## Licencia
 [MIT](https://choosealicense.com/licenses/mit/)
